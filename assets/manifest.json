@@ -3,24 +3,24 @@
     "name": "Squid Game App",
     "icons": [
         {
-            "src": "/assets/images/icons-128.png",
+            "src": "/squid-game-worktest.github.io/assets/images/icons-128.png",
             "type": "image/png",
             "sizes": "128x128"
         },
         {
-            "src": "/assets/images/icons-192.png",
+            "src": "/squid-game-worktest.github.io/assets/images/icons-192.png",
             "type": "image/png",
             "sizes": "192x192"
         },
         {
-            "src": "/assets/images/icons-512.png",
+            "src": "/squid-game-worktest.github.io/assets/images/icons-512.png",
             "type": "image/png",
             "sizes": "512x512"
         }
     ],
-    "start_url": "/index.html",
+    "start_url": "/squid-game-worktest.github.io/index.html",
     "background_color": "#FFFFFF",
     "display": "standalone",
-    "scope": "/",
+    "scope": "/squid-game-worktest.github.io/",
     "theme_color": "#FFFFFF"
 }
